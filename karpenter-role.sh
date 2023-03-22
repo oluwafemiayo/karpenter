@@ -1,5 +1,6 @@
 export KARPENTER_VERSION=v0.26.1
 export CLUSTER_NAME=my-cluster-test
+export ACCOUNT_ID=123456789
 
 TEMPOUT=$(mktemp)
 
